@@ -1,9 +1,8 @@
 # Robotics_Papers_Hub (A Repository for Robotics Literature)
 
 
-# Research Papers on Alignment (Static or Self) Using ANNs, Compass, and Stationary Methods
 
-## Category: Static Initial Alignment for IMU (Self Initial Alignment for IMU)
+# Static Initial Alignment for IMU (Self Initial Alignment for IMU)
 
 ### Subcategory: Artificial Neural Networks (ANNs) based Static Initial Alignment 
 
@@ -220,8 +219,6 @@
 - IEEE 2012 Quaternion-Optimization-Based In-Flight Alignment Approach for Airborne POS
 - IEEE 2012 Velocity Position Integration Formula Application to In-Flight Coarse Alignment
 - IEEE 2013 In-Flight Coarse Alignment for Aerostat
-
-# Research Papers on Alignment (InFlight)
 
 ## Optimization Based Coarse Alignment
 - 2017 In-motion coarse alignment method based on reconstructed observation vectors.pdf: In-motion coarse alignment method based on reconstructed observation vectors
