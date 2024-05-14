@@ -168,3 +168,35 @@
 61. **Calibration Through Multi-Position**: Method for MIMU In-Field Systematic
 62. **Comparative Study of Several**: Comparative Study of Several
 63. **Performance Enhancement of Low-Cost MEMS Inertial Sensors**: 11/4/2018
+64. 
+# Neural Networks Research Papers
+
+## Folder: Neural Networks
+
+1. **Temperature Compensation Model of MEMS Inertial Sensors Based on Neural Network**: [ResearchGate](https://www.researchgate.net/publication/325638539)
+2. **A Neural Network for a Micromachined Inertial**: Sensors
+3. **A New Calibration Method Using Genetic**: $ 1HZ &DOLEUDWLRQ 0HWKRG IRU 0(06
+4. **An Enhanced MEMS Error Modeling Approach Based on Nu-Support Vector Regression**: Sensors 2012, 12, 9448-9466; doi:10.3390/s120709448
+5. **Artificial Neural Networks for Transfer Alignment**: c)2001 American Institute of Aeronautics & Astronautics or Published with Permission of Author(s) and/or Author(s)' Sponsoring Organization.
+6. **Attitude-independent 3-axis Accelerometer Calibration Based on Adaptive Neural Network**: Procedia Engineering
+7. **A New Magnetic Compass Calibration Algorithm Using Algorithm Using Neural Networks**: [ResearchGate](https://www.researchgate.net/publication/230981917)
+8. **Calibration of an Inertial Accelerometer Using Trained**: International Journal of Automotive Engineering
+9. **Control Loop Sensor Calibration Using Neural Networks for**: Hindawi Publishing Corporation
+10. **Design and Calibration of a Neural Network-Based Adaptive**: DESIGN AND CALIBRATION OF A NEURAL NETWORK-BASED ADAPTIVE
+11. **IMU-Based Gait Recognition Using Convolutional**: Sensors
+12. **Intelligent Calibration Method of Low-Cost MEMS Inertial Measurement Unit**: International Journal of
+13. **Intelligent Real-Time MEMS Sensor Fusion and Calibration**: This is the accepted version of the manuscript: D. Nemec, A. Janota, M. Hruboš and V. Šimák, "Intelligent Real-Time MEMS Sensor Fusion and Calibration,"
+14. **Neural Network Based Fiber Optic**: Neural Network Based Fiber Optic
+15. **Sensor Auto-Calibration Using Neural Networks for RISS**: 6th ESA International Colloquium on Scientific and Fundamental Aspects of the Galileo, 25-27 October, Valencia, Spain
+16. **Sensor Fusion Algorithm and Calibration for a Gyroscope-Free IMU**: Procedia
+
+## Folder: Reference for Calibration Paper
+
+1. **Calibration of Low-Cost Triaxial Inertial Sensors**: 32
+2. **A Multi-Position Calibration Method for Consumer-Grade Accelerometers, Gyroscopes, and**: Tampere University of Technology
+3. **A Robust and Easy to Implement Method for IMU Calibration Without External Equipments**: A Robust and Easy to Implement Method for IMU Calibration Without
+4. **Autocalibration of MEMS Accelerometers**: 2034
+5. **Autocalibration of Triaxial MEMS Accelerometers**: 2100
+6. **Automatic Calibration for Inertial Measurement Unit**: Automatic Calibration for Inertial Measurement Unit
+7. **Methods for In-Field User Calibration of an**: IOP PUBLISHING
+
