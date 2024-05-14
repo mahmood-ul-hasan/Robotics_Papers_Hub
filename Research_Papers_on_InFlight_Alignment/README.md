@@ -131,3 +131,45 @@
 - IEEE 2017 A Fast Alignment Algorithm Based On Adaptive Quaternion Kalman Filter.pdf: A Fast Alignment Algorithm Based On Adaptive Quaternion Kalman Filter
 - Sensors-2017 Coarse Alignment Technology on Moving Base for SINS Based on the Improved Quaternion Filter Algorithm.pdf: sensors
 
+# Madam Bao Suggested Paper
+
+1. **A Consistent and Robust Kalman Filter Design for In-Motion Alignment**: A consistent and robust Kalman ﬁlter design for in-motion alignment
+2. **A Fast Compass Alignment Method for SINS based on Saved Data and Repeated Navigation Solution**: A fast compass alignment method for SINS based on saved data
+3. **A Hybrid Fusion Algorithm for GPS-INS Integration During GPS Outages**: A hybrid fusion algorithm for GPS/INS integration during GPS outages
+4. **A New Multi-Position Calibration Method for MEMS Inertial Navigation Systems**: IOP PUBLISHING
+5. **A New Transfer Alignment of Airborne Weapons Based on Relative Navigation**: Contents lists available at ScienceDirect
+6. **A Novel Self-Alignment Method for SINS based on Three Vectors of Gravitational Apparent Motion in Inertial Frame**: A novel self-alignment method for SINS based on three vectors
+7. **A Polar Initial Alignment Algorithm for Unmanned**: sensors
+8. **Accurate Estimation of Lever Arm in SINS-GPS Integration by Smoothing Methods**: Accurate estimation of lever arm in SINS/GPS integration by
+9. **An Extended Robust H∞ Filter Design for SDINS In-Flight Alignment**: AN EXTENDED ROBUST
+10. **An Improved Nonlinear Filter based on Adaptive Fading Factor Applied in Alignment of SINS**: Accepted Manuscript
+11. **An Intelligent Navigator for Seamless INS-GPS Integrated Land Vehicle Navigation Applications**: An intelligent navigator for seamless INS/GPS
+12. **Anti-Disturbance Fault Tolerant Initial Alignment for Inertial Navigation**: Aerospace Science and Technology 72 (2018) 95–103
+13. **Civilian Vehicle Navigation Required Alignment**: 3402
+14. **Coarse Alignment for Fiber Optic Gyro SINS with External Velocity Aid**: Optik 125 (2014) 4241–4245
+15. **Compass Aided Visual-Inertial Odometry**: Compass aided visual-inertial odometry q
+16. **Design of a Stationary Self-Alignment Algorithm for Strapdown Inertial Navigation Systems**: ScienceDirect
+17. **Dynamic Lever Arm Compensation of SINS-GPS Integrated System for Aerial Mapping**: Dynamic lever arm compensation of SINS/GPS integrated
+18. **En-Route Alignment and Calibration of SINS by Celestial Observation and Distinctiveness of Free Fall Trajectory**: En-route Alignment and Calibration of SINS by Celestial Observation and
+19. **Evaluation on the Impact of IMU Grades on BDS+GPS PPP-INS Tightly Coupled Integration**: Evaluation on the impact of IMU grades on BDS + GPS
+20. **Fuzzy Adaptive Integration Scheme for Low-Cost SINS-GPS Navigation System**: Fuzzy adaptive integration scheme for low-cost SINS/GPS
+21. **GPS-INS-Odometer-DR Integrated Navigation System Aided with Vehicular Dynamic Characteristics for Autonomous Vehicle Application**: IFAC PapersOnLine 51-31 (2018) 936–942
+22. **GPS-UWB-MEMS-IMU Tightly Coupled Navigation with Improved Robust Kalman Filter**: GPS/UWB/MEMS-IMU tightly coupled navigation with
+23. **Gyroscope-Reduced Inertial Navigation System for Flight Vehicle Motion Estimation**: Gyroscope-reduced inertial navigation system for ﬂight vehicle motion
+24. **In-Flight Alignment of Low Grade Strapdown Navigation System**: In ﬂight Alignment of Low Grade
+25. **In-Motion Initial Alignment and Positioning with INS-CNS-ODO Integrated Navigation System for Lunar Rovers**: In-motion initial alignment and positioning with
+26. **Inertial Navigation Models**: 3
+27. **Initial Alignment on Moving Base using GPS Measurements to Construct New Vectors**: Initial alignment on moving base using GPS measurements
+28. **Initial Position and Attitude Determination of Lunar Rovers by INS-CNS Integration**: Aerospace Science and Technology 30 (2013) 323–332
+29. **Minimal Solutions for the Rotational Alignment of IMU-Camera Systems using Homography Constraints**: Contents lists available at ScienceDirect
+30. **Moving Base Alignment of a Fiber Optic Gyro Inertial Navigation System for Autonomous Underwater Vehicle using Doppler Velocity Log**: Optik
+31. **Multiple Fading Factors Kalman Filter for SINS Static Alignment Application**: Contents lists available at ScienceDirect
+32. **Multistage Attitude Determination Alignment for Ve**: Sensors 2019, 19, 665; doi:10.3390/s19030665
+33. **On-the-Move Alignment for Strap-Down Inertial Navigation System**: On-the-move Alignment for Strap-down Inertial
+34. **One Approach to the Integration of Low-Cost Inertial Sensors and Global Positioning System for Mobile Robots**: One Approach to the Integration of Low-Cost Inertial Sensors and Global
+35. **Online Self-Calibration Research of Single-Axis Rotational Inertial Navigation System**: Contents lists available at ScienceDirect
+36. **Optimization-Based Alignment for Inertial Navigation Systems Theory and Algorithm**: Aerospace Science and Technology 15 (2011) 1–17
+37. **Performance Evaluation of Cubature Kalman Filter in a GPS-IMU Tightly-Coupled Navigation System**: Performance evaluation of Cubature Kalman filter
+38. **POF-IMU Sensor System A Fusion between Inertial Measurement Units and POF Sensors for Low-Cost and Highly Reliable Systems**: Contents lists available at ScienceDirect
+39. **Rapid Alignment Method based on Local Observability Analysis for Strapdown Inertial Navigation System**: Rapid alignment
+
