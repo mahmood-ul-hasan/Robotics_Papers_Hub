@@ -1,6 +1,6 @@
 # De-Noise Filter Research Papers
 
-# Subfolder: Error Estimation
+# Error Estimation
 
 1. **A comparison between different error modeling of MEMS.pdf**: Sensors 2013, 13, 9549-9588; [doi:10.3390/s130809549](https://www.mdpi.com/1424-8220/13/8/9549)
 2. **A complementary filter for attitude estimation of a fixed-wing UAV.pdf**: A complementary filter for attitude estimation of a fixed-wing UAV
@@ -36,7 +36,7 @@
 32. **Similarity-based adaptive complementary filter.pdf**: Similarity-based adaptive complementary filter
 33. **Using inertial sensors for position.pdf**: Foundations and Trends R
 
-## Subfolder: Filter for Alignment
+# Filter for Alignment
 
 1. **A self-alignment algorithm for SINS based on gravitational apparent motion and sensor data denoising.pdf**: Sensors 2015, 15, 9827-9853; [doi:10.3390/s150509827](https://www.mdpi.com/1424-8220/15/5/9827)
 2. **A Vondrak low pass filter for IMU sensor initial alignment.pdf**: Sensors 2014, 14, 23803-23821; [doi:10.3390/s141223803](https://www.mdpi.com/1424-8220/14/12/23803)
