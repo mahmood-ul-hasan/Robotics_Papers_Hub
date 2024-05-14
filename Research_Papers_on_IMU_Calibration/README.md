@@ -170,7 +170,7 @@
 63. **Performance Enhancement of Low-Cost MEMS Inertial Sensors**: 11/4/2018
 64. 
 
-# Neural Networks
+# Neural Networks based Calibration
 
 1. **Temperature Compensation Model of MEMS Inertial Sensors Based on Neural Network**: [ResearchGate](https://www.researchgate.net/publication/325638539)
 2. **A Neural Network for a Micromachined Inertial**: Sensors
