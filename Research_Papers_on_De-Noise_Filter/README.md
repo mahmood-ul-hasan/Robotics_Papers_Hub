@@ -55,3 +55,59 @@
 15. **Optimal parameter design of coarse alignment for fiber optic gyro inertial navigation system.pdf**: Sensors 2015, 15, 15006-15032; [doi:10.3390/s150715006](https://www.mdpi.com/1424-8220/15/7/15006)
 16. **SINSOD integrated navigation algorithm based on BO.pdf**: Research article
 
+
+# De-Noise Filter Research Papers
+
+## Gyro Denoise
+
+- **04318943.pdf**: 2896
+- **A Hybrid LWNN-Based Stochastic Noise Eliminating Method for Fiber Optic Gyro.pdf**: A hybrid LWNN-based Stochastic Noise Eliminating Method for
+- **Analysis of Correlation in MEMS Gyroscope Array and its Influence on Accuracy Improvement for the Combined Angular Rate Signal.pdf**: Micromachines
+- **Application of a New Denoising Algorithm in Hemispherical Resonant Gyro.pdf**: Application of a New Denoising Algorithm in Hemispherical Resonant Gyro
+- **A_Gyro_Signal_Characteristics_Analysis_Method_Base.pdf**: Research Article
+- **Fiber Optic Gyroscope signal de-noising using an.pdf**: 1530-437X (c) 2015 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission. See [IEEE](http://www.ieee.org/publications_standards/publications/rights/index.html) for more information.
+- **Gyro Modeling and Estimation of Its Random Noise Sources.pdf**: See discussions, stats, and author profiles for this publication at: [ResearchGate](https://www.researchgate.net/publication/268554081)
+- **IIEE 2006 The study of original aim and removing noise in inertial Navigation system with wavelet.pdf**: The study of original aim and removing noise in inertial
+- **IIEE 2011 A Kalman filter approach based on random drift data of Fiber Optic Gyro.pdf**: A Kalman Filter Approach based on Random Drift
+- **IIEE 2011 Filter design for attitude determination using GPS and gyro frequency domain approach.pdf**: 213 A93
+- **IIEE 2011 On-line Realization of SVM Kalman Filter for MEMS Gyro.pdf**: On-line Realization of SVM Kalman Filter for MEMS Gyro
+- **IIEE 2013 An improved adaptive Kalman filter for denoising fiber optic gyro drift signal.pdf**: An improved adaptive Kalman filter for denoising
+- **IIEE 2013 De-noising MEMS inertial sensors for low-cost vehicular attitude estimation based on.pdf**: De-noising MEMS inertial sensors for low-
+- **IIEE 2013 The MEMS gyro stabilized platform design based on Kalman Filter.pdf**: The MEMS gyro stabilized platform design based on
+- **IIEE 2014 Kalman smoothing with persistent nuisance parameters.pdf**: 2014 IEEE INTERNATIONAL WORKSHOP ON MACHINE LEARNING FOR SIGNAL PROCESSING, SEPT. 21–24, 2014, REIMS, FRANCE
+- **IIEE 2014 Modeling research of MEMS gyro drift Based on Kalman filter.pdf**: 1
+- **IIEE 2014 Research on satellite attitude determination with adaptive filter.pdf**: Research on Satellite Attitude Determination with
+- **IIEE 2018 Novel Time Series Modeling Methods for Gyro Random Noise Used in Internet of Things.pdf**: SPECIAL SECTION ON COLLABORATION FOR INTERNET OF THINGS
+- **Modeling_the_Stochastic_Drift_of_a_MEMS-Based_Gyro.pdf**: See discussions, stats, and author profiles for this publication at: [ResearchGate](https://www.researchgate.net/publication/224151611)
+- **Research on signal de-noising technique for MEMS gyro.pdf**: Planck-HFI optical design and pre-flight
+- **Signal Processing of MEMS Gyroscope Arrays to Improve.pdf**: Sensors 2012, 12, 1720-1737; [doi:10.3390/s120201720](https://www.mdpi.com/1424-8220/12/2/1720)
+
+## IEEE
+
+- **An approach of ANN Based Noise Filtering and.pdf**: An approach of ANN Based Noise Filtering and
+- **An improved Sage Husa adaptive robust Kalman Filter for De-noising.pdf**: An improved Sage Husa adaptive robust Kalman Filter for De-noising
+- **Dynamic dependent IMU stochastic modeling for.pdf**: Dynamic dependent IMU stochastic modeling for
+- **Integrating GPS_MEMS-based-IMU with Single GPS.pdf**: Integrating GPS/MEMS-based-IMU with Single GPS
+- **Performance Enhancement of MEMS-Based.pdf**: IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY, VOL. 58, NO. 3, MARCH 2009
+- **Research on accuracy enhancement of low-cost MEMS INS-GNSS.pdf**: Research on accuracy enhancement of low-cost MEMS INS/GNSS
+
+## Kalman Filter
+
+- **A Kalman filter approach based on random drift data of Fiber Optic Gyro.pdf**: A Kalman Filter Approach based on Random Drift
+- **Study on Kalman filtering for noise filtration in INS.pdf**: Abstract—In Integrated Navigation System, the performance
+
+## Stochastic Model Allan Variance
+
+- **A Comparison between Different Error Modeling of MEMS Applied to GPS-INS Integrated Systems.pdf**: Sensors 2013, 13, 9549-9588; [doi:10.3390/s130809549](https://www.mdpi.com/1424-8220/13/8/9549)
+- **Allan Variance Performance Enhancement of Low-Cost MEMS Inertial Sensors Using Extensive.pdf**: 2017, 34th NATIONAL RADIO SCIENCE CONFERENCE
+- **An Adaptive Filtering Approach Based on the Dynamic Variance Model for Reducing MEMS Gyroscope Random Error.pdf**: Sensors
+- **An Adaptive Filtering Approach Based on the.pdf**: Sensors
+- **Analysis Modelling Inertial Sensor Using AllanVariance.pdf**: See discussions, stats, and author profiles for this publication at: [ResearchGate](https://www.researchgate.net/publication/3094132)
+- **AnalysisModellingInertialSensorUsingAllanVariance.pdf**: See discussions, stats, and author profiles for this publication at: [ResearchGate](https://www.researchgate.net/publication/3094132)
+- **Analysis_Modelling_Inertial_Sensor_Using.pdf**: 140
+- **Application of Fast Dynamic Allan Variance for the Characterization of FOGs-Based Measurement While Drilling.pdf**: Sensors
+- **MEMSIMUStochasticErrorModelling (1).pdf**: MEMS IMU Stochastic Error Modelling
+- **Online estimation method of Allan variance.pdf**: This content has been downloaded from IOPscience. Please scroll down to see the full text.
+- **Online Estimation of Allan Variance Coefficients Based on a.pdf**: Sensors 2015, 15, 2496-2524; [doi:10.3390/s150202496](https://www.mdpi.com/1424-8220/15/2/2496)
+- **THE ALLAN VARIANCE METHOD FOR MEMS INERTIAL SENSORS.pdf**: THE ALLAN VARIANCE METHOD FOR MEMS INERTIAL SENSORS
+
