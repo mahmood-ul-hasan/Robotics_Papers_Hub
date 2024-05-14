@@ -76,3 +76,30 @@
 32. **Tightly-Coupled Joint User Self-Calibration of**: See discussions, stats, and author profiles for this publication at: [ResearchGate](https://www.researchgate.net/publication/323072068)
 33. **Two-point Calibration Accuracy Analysis Model of**: Two-point Calibration Accuracy Analysis Model of
 
+
+# IMU In-Field Calibration Research Papers
+
+1. **An Algorithm for the In-Field Calibration**: IEEE Sensors Journal, Vol. 17, No. 22, November 15, 2017
+2. **A Multi-Position Calibration Algorithm for Inertial**
+3. **A New Calibration Method for  _ zfv_2002_1_Shin_El-Sheimy**: Summary
+4. **A New Multi-Position Calibration Method for Accelerometers of the Inertial**: Introduction
+5. **A Robust and Easy to Implement Method for IMU Calibration without External Equipments**
+6. **Automatic Calibration for Inertial Measurement Unit**
+7. **A Three-Stage Accelerometer Self-Calibration Techn**: Sensors 2018, 18, 2888; doi:10.3390/s18092888
+8. **Calibration of Deterministic IMU Errors**: College of Engineering
+9. **Calibration of the Accelerometer Triad of an**: 2010 International Conference on Indoor Positioning and Indoor Navigation (IPIN), 15-17 September 2010
+10. **Calibration Procedure for an Inertial Measurement Unit Using a**
+11. **Error Analysis and Gyro-Bias Calibration of Analytic**: 3058
+12. **Improved Iterative Calibration for Triaxial Accelerometers**: Sensors 2012, 12, 8157-8175; doi:10.3390/s120608157
+13. **Iterative Calibration Method for Inertial and Magnetic Sensors**: HAL Id: hal-00473610
+14. **Low Cost MEMS IMU Calibration for Aerospace Student Activities**: [ResearchGate](https://www.researchgate.net/publication/323551794)
+15. **Magnetometer and Gyroscope Calibration Method**: Sensors
+16. **MEMs Inertial Measurement Unit Calibration**
+17. **Methods for In-Field User Calibration of an**: IOP Publishing
+18. **Optimisation-Based Transfer Alignment and Calibration Method for Inertial Measurement Vector Integration Matching**
+19. **Overdetermined Linear System**: Lesson 8
+20. **Standard Testing and Calibration Procedure for Low Cost MEMS Inertial Sensors and Units**: A Standard Testing and Calibration
+21. **Tightly-Coupled Joint User Self-Calibration of**: [ResearchGate](https://www.researchgate.net/publication/323072068)
+22. **Time- and Computation-Efficient Calibration of MEMS 3D**: Sensors 2014, 14, 14885-14915; doi:10.3390/s140814885
+23. **Triaxial Accelerometer Static Calibration**
+
