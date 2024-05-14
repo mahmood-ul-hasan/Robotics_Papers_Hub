@@ -169,9 +169,8 @@
 62. **Comparative Study of Several**: Comparative Study of Several
 63. **Performance Enhancement of Low-Cost MEMS Inertial Sensors**: 11/4/2018
 64. 
-# Neural Networks Research Papers
 
-## Folder: Neural Networks
+# Neural Networks
 
 1. **Temperature Compensation Model of MEMS Inertial Sensors Based on Neural Network**: [ResearchGate](https://www.researchgate.net/publication/325638539)
 2. **A Neural Network for a Micromachined Inertial**: Sensors
@@ -190,7 +189,7 @@
 15. **Sensor Auto-Calibration Using Neural Networks for RISS**: 6th ESA International Colloquium on Scientific and Fundamental Aspects of the Galileo, 25-27 October, Valencia, Spain
 16. **Sensor Fusion Algorithm and Calibration for a Gyroscope-Free IMU**: Procedia
 
-## Folder: Reference for Calibration Paper
+# Reference for Calibration Paper
 
 1. **Calibration of Low-Cost Triaxial Inertial Sensors**: 32
 2. **A Multi-Position Calibration Method for Consumer-Grade Accelerometers, Gyroscopes, and**: Tampere University of Technology
