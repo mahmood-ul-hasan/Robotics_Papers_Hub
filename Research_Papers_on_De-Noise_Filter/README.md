@@ -1,6 +1,6 @@
 # De-Noise Filter Research Papers
 
-## Subfolder: Error Estimation
+# Subfolder: Error Estimation
 
 1. **A comparison between different error modeling of MEMS.pdf**: Sensors 2013, 13, 9549-9588; [doi:10.3390/s130809549](https://www.mdpi.com/1424-8220/13/8/9549)
 2. **A complementary filter for attitude estimation of a fixed-wing UAV.pdf**: A complementary filter for attitude estimation of a fixed-wing UAV
@@ -56,9 +56,7 @@
 16. **SINSOD integrated navigation algorithm based on BO.pdf**: Research article
 
 
-# De-Noise Filter Research Papers
-
-## Gyro Denoise
+# Gyro Denoise
 
 - **04318943.pdf**: 2896
 - **A Hybrid LWNN-Based Stochastic Noise Eliminating Method for Fiber Optic Gyro.pdf**: A hybrid LWNN-based Stochastic Noise Eliminating Method for
@@ -82,7 +80,7 @@
 - **Research on signal de-noising technique for MEMS gyro.pdf**: Planck-HFI optical design and pre-flight
 - **Signal Processing of MEMS Gyroscope Arrays to Improve.pdf**: Sensors 2012, 12, 1720-1737; [doi:10.3390/s120201720](https://www.mdpi.com/1424-8220/12/2/1720)
 
-## IEEE
+# IEEE
 
 - **An approach of ANN Based Noise Filtering and.pdf**: An approach of ANN Based Noise Filtering and
 - **An improved Sage Husa adaptive robust Kalman Filter for De-noising.pdf**: An improved Sage Husa adaptive robust Kalman Filter for De-noising
@@ -91,12 +89,12 @@
 - **Performance Enhancement of MEMS-Based.pdf**: IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY, VOL. 58, NO. 3, MARCH 2009
 - **Research on accuracy enhancement of low-cost MEMS INS-GNSS.pdf**: Research on accuracy enhancement of low-cost MEMS INS/GNSS
 
-## Kalman Filter
+# Kalman Filter
 
 - **A Kalman filter approach based on random drift data of Fiber Optic Gyro.pdf**: A Kalman Filter Approach based on Random Drift
 - **Study on Kalman filtering for noise filtration in INS.pdf**: Abstract—In Integrated Navigation System, the performance
 
-## Stochastic Model Allan Variance
+# Stochastic Model Allan Variance
 
 - **A Comparison between Different Error Modeling of MEMS Applied to GPS-INS Integrated Systems.pdf**: Sensors 2013, 13, 9549-9588; [doi:10.3390/s130809549](https://www.mdpi.com/1424-8220/13/8/9549)
 - **Allan Variance Performance Enhancement of Low-Cost MEMS Inertial Sensors Using Extensive.pdf**: 2017, 34th NATIONAL RADIO SCIENCE CONFERENCE
@@ -110,4 +108,52 @@
 - **Online estimation method of Allan variance.pdf**: This content has been downloaded from IOPscience. Please scroll down to see the full text.
 - **Online Estimation of Allan Variance Coefficients Based on a.pdf**: Sensors 2015, 15, 2496-2524; [doi:10.3390/s150202496](https://www.mdpi.com/1424-8220/15/2/2496)
 - **THE ALLAN VARIANCE METHOD FOR MEMS INERTIAL SENSORS.pdf**: THE ALLAN VARIANCE METHOD FOR MEMS INERTIAL SENSORS
+
+# Wavelet Filter
+
+- **A novel denoising method and its application to MEMS gyro signal.pdf**: A novel denoising method and its application to MEMS gyro signal
+- **An automatic wavelet denoising scheme for heart sounds.pdf**: International Journal of Wavelets, Multiresolution
+- **APPLICATION OF WAVELET ANALYSIS TO INERTIAL MEASUREMENTS.pdf**: Science & Military 2/2008
+- **calendar.pdf**: [Title not found]
+- **DISCRETE WAVELET TRANSFORM USING MATLAB.pdf**: See discussions, stats, and author profiles for this publication at: [ResearchGate](https://www.researchgate.net/publication/236154829)
+- **Gyro Online Correction Method Based on Kalman Filter and Polynomial Fitting.pdf**: Gyro online correction method based on
+- **Gyro Signal De-noising Based on a New Wavelet Threshold Function.pdf**: Gyro Signal De-noising Based on a New Wavelet Threshold Function
+- **IEEE 2003 EXTRACTION OF FOG SIGNAL FROM FRACTAL NOISE.pdf**: IEEE Int. Conf. Neural Networks & Signal Processing
+- **IEEE 2006 Application of the Digital Signal Procession in the MEMS Gyroscope De-drift.pdf**: Proceedings of the 1st IEEE International
+- **IEEE 2009 Characterization of Fiber Optics Gyro and Noise Compensation Using Discrete Wavelet Transform.pdf**: Characterization of Fiber Optics Gyro and noise compensation using Discrete
+- **IEEE 2009 On-line realization of multi-scale soft-threshold de-noising of MEMS gyro by wavelet.pdf**: The Ninth International Conference on Electronic Measurement & Instruments, ICEMI’2009
+- **IEEE 2009 Parameter estimation and elimination for stochastic noise from Fiber Optical Gyro in wavelet domain.pdf**: 1
+- **IEEE 2009 Research on fiber optic gyro signal de-noising based on.pdf**: Journal of Systems Engineering and Electronics
+- **IEEE 2010 Application of Wavelet Threshold Method to DTG Signal Processing.pdf**: 1
+- **IEEE 2010 How to deal with low performance IMUs in an integrated navigation system Step by step.pdf**: How to Deal with Low Performance IMUs in an
+- **IEEE 2010 MEMS gyro de-noising based on coefficients dependency in wavelet transform domain.pdf**: Abstract—Wavelet de-noising is widely recognized as an
+- **IEEE 2011 Online Averaging Wavelet Denoising Method.pdf**: Online Averaging Wavelet Denoising Method
+- **IEEE 2013 A wavelet theory about online wavelets denoising based on Moving Window and Principal Component Analysis (PCA).pdf**: Proceedings of the 2013 International Conference on Wavelet Analysis and Pattern Recognition, Tianjin, 14-17 July, 2013
+- **IEEE 2013 The de-noising of gyro signals by bi-orthogonal wavelet transform.pdf**: THE
+- **IEEE 2014 An improved MRI denoising algorithm based on wavelet shrinkage.pdf**: An Improved MRI Denoising Algorithm based on Wavelet Shrinkage
+- **IEEE 2015 Denoising sensors signals within mechatronic systems using a Wavelet technique.pdf**: Denoising sensors signals within mechatronic
+- **IEEE 2016 A New Wavelet Denoising Method for Selecting.pdf**: Received June 1, 2016, accepted June 21, 2016, date of publication July 7, 2016, date of current version August 15, 2016.
+- **IEEE 2016 Further discussions on adaptive filters to improve the wavelet shrinkage method.pdf**: 
+- **IEEE 2018 Research on Signal Denoising Method Based on Adaptive Lifting Wavelet Transform.pdf**: Research on Signal Denoising Method Based on Adaptive Lifting Wavelet
+- **IEEE Analysis of filtering methods for 3D acceleration signals in body sensor network.pdf**: Abstract—Development of denoising algorithm for 3D
+- **IEEE2018 An Integrated Approach of Wavelet Techniques and Time Series Analysis in Eliminating MEMS Inertial Gyro Stochastic Error.pdf**: 2018 18th International Conference on Control, Automation and Systems (ICCAS 2018)
+- **Inertial sensor signals denoising with directed transfer function.pdf**: THE 9th INTERNATIONAL SYMPOSIUM ON ADVANCED TOPICS IN ELECTRICAL ENGINEERING
+- **Inertial Sensor Signals Denoising with Wavelet Transform.pdf**: INCAS BULLETIN, Volume 7, Issue 1/ 2015, pp. 57 – 64, ISSN 2066 – 8201
+- **MEMS Gyro Denoising Based on Second Generation Wavelet Transform.pdf**: MEMS Gyro Denoising Based on Second Generation Wavelet Transform
+- **Multi-Scale Soft-Threshold De-Noising of MEMS Gyro by Wavelet.pdf**: Multi-scale Soft-threshold De-noising of MEMS
+- **Online Wavelet Denoising via a Moving Window.pdf**: Online Wavelet Denoising via a Moving Window
+- **Signal Processing of Fiber Optic Gyro under Vehicle Vibration.pdf**: Signal Processing of Fiber Optic Gyro under Vehicle Vibration
+- **Study on De-noising of Gyro Signal Based on Wavelet Packet Threshold.pdf**: Study on De-noising of Gyro Signal Based on Wavelet Packet Threshold
+- **Wavelet Analysis For Improving INS and INS-DGPS Navigation Accuracy.pdf**: Wavelet Analysis For Improving INS
+- **Wavelet de-noising Kalman filter-based Global.pdf**: IET Radar, Sonar & Navigation
+- **Wavelet Packets GNSS Repeat-time Multipath Mitigation Lawrence Lau 10.10....pdf**: ORIGINAL ARTICLE
+- **Wavelet-Based Method for Fog Signal Denoising.pdf**: Wavelet-Based Method for Fog Signal Denoising
+- **Wavelet-based Pre-filtering for Low Cost Inertial Sensors.pdf**: [Title not found]
+
+# Wavelet for Alignment
+
+- **IEEE 2012 SINS initial alignment using wavelet de-noising method for aircraft navigation2.pdf**: SINS Initial Alignment Using Wavelet De-noising Method
+- **Inertial-frame-based coarse initial alignment for marine Strapdown Inertial Navigation System using wavelet de-noising.pdf**: Inertial-frame-based Coarse Initial Alignment for Marine Strapdown
+- **Per formance Analysis of Alignment Process of MEMS IM U.pdf**: Hindawi Publishing Corporation
+- **Wavelet De-Noising for IMU Alignment.pdf**: Wavelet De-Noising for IMU Alignment
 
