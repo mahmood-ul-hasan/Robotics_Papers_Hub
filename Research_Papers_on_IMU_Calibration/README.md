@@ -103,3 +103,68 @@
 22. **Time- and Computation-Efficient Calibration of MEMS 3D**: Sensors 2014, 14, 14885-14915; doi:10.3390/s140814885
 23. **Triaxial Accelerometer Static Calibration**
 
+# IMU Lab Calibration Research Papers
+
+1. **An Optimal Calibration Method**
+2. **An Optimal Calibration Method for a MEMS Inertial**
+3. **Calibration and Performance Evaluation of**: 2017 IEEE First Ukraine Conference on Electrical and Computer Engineering (UKRCON)
+4. **Calibration of an IMU Using 3-D Rotation Platform**: 1778
+5. **A Novel Self-Calibration Method for MIMU**: 5416
+6. **A Self-Calibration Method for Nonorthogonal**: IEEE Transactions on Industrial Electronics, Vol. 62, No. 4, April 2015
+7. **Calibration of a Multi-Sensor Inertial Measurement Unit with Modified Sensor Frame**
+8. **Offline Calibration for MEMS Gyroscope G-Sensitivity Error Coefficients Based on the Newton Iteration and Least Square**: The Journal of Navigation (2018), 71, 352–370
+9. **3D-Calibration of the IMU**: HAL Id: hal-01654279
+10. **Accuracy and Repeatability of Single-Pose Calibration of Inertial**: Full Length Article
+11. **Expanded Calibration of the MEMS Inertial Sensors**: 2017 IEEE First Ukraine Conference on Electrical and Computer Engineering (UKRCON)
+12. **Identification Modeling of Inertial Sensors'**: 2017 2nd International Ural Conference on Measurements (UralCon)
+13. **LiDAR-IMU Time Delay Calibration Based on**: Sensors 2017, 17, 539; doi:10.3390/s17030539
+14. **On the Error State Selection for Stationary SINS Alignment and Calibration Kalman Filters – Part I**: Aerospace Science and Technology 61 (2017) 45–56
+15. **Performance Enhancement of Low-Cost MEMS Inertial Sensors Using Extensive**: 2017, 34th National Radio Science Conference
+16. **Reduced Complexity Calibration of MEMS IMUs**
+17. **SINS Field Calibration Based on BDII Differential Positioning**: Aerospace Science and Technology 62 (2017) 108–113
+18. **Strapdown Inertial Navigation System Calibration**: 2017 2nd International Ural Conference on Measurements (UralCon)
+19. **Fast Self - Calibration of Fiber - Optic Strapdown**
+20. **Improved Strapdown Inertial Measurement Unit Calibration Procedures**
+21. **Online Self-Calibration Research of Single-Axis Rotational Inertial Navigation System**: Contents Lists Available at ScienceDirect
+22. **A New Multi-Position Calibration Method for MEMS Inertial Navigation Systems**
+23. **A Separated Calibration Method for Inertial Sensors**
+24. **Accelerometer Calibration and Dynamic Bias and Gravity Estimation**: [ResearchGate](https://www)
+25. **Alignment and Calibration Kalman Filters**: Sensors
+26. **An Accurate Calibration Method Based on Velocity in a Rotational Inertial Navigation System**: Sensors 2015, 15, 18443-18458; doi:10.3390/s150818443
+27. **An Efficient Orientation Filter for Inertial and Thesis**: An Efficient Orientation Filter for Inertial and
+28. **Analysis of MEMS IMU Motion Table**
+29. **An Enhanced Multi-Position Calibration**: An Enhanced Multi-Position Calibration Method for
+30. **Calibration Algorithm of Land-Vehicle**: Sensors
+31. **Calibration of a MEMS Inertial Measurement Unit**: XVII IMEKO World Congress
+32. **Calibration of a Multi-Sensor Inertial Measurement**: Calibration of a Multi-Sensor Inertial Measurement
+33. **Calibration of Deterministic IMU Errors (1)**: College of Engineering
+34. **Calibration of Low Cost MEMS Inertial Measurement**: Calibration of Low Cost MEMS Inertial Measurement
+35. **Calibration of MEMS Accelerometer Based on Kalman**
+36. **Designing a 2-DOF Passive Mechanism for Dynamical Calibration of MEMS-Based Motion Sensors**: Abstract—In this paper, the mechatronic structure of a 2-
+37. **Effective Adaptive Kalman Filter for MEMS-IMU Magnetometers Integrated Attitude and Heading Reference Systems**: Effective Adaptive Kalman Filter
+38. **Error Analysis and Gyro-Bias Calibration of Analytic**: 3058
+39. **Experimental Static Calibration of an IMU**: Proceedings of COBEM 2007
+40. **Factorization-Based Calibration Method for IMU**: Factorization-Based Calibration Method for
+41. **Fast Alignment and Calibration Algorithms for Inertial Navigation System**: Aerospace Science and Technology 13 (2009) 204–209
+42. **Fitting Functions with MATLAB and the Gauss-Newton Algorithm**: Fitting Functions with MATLAB and the Gauss-Newton Algorithm
+43. **High-Efficiency Low-Cost Accelerometer-Aided Gyroscope Calibration**: 2009 International Conference on Test and Measurement
+44. **Improving Measurement Quality of a MEMS-Based Gyro-Free Inertial**: Sensors
+45. **Innovative Self-Calibration Method for**: Innovative Self-Calibration Method for
+46. **INS Stochastic Error Detection During Kinematic Tests and Impacts on INS GNSS Performance**: Full Terms & Conditions of Access and Use Can Be Found at
+47. **Lecture 2 Estimation**: Outline
+48. **Magnetic Calibration for MEMS Sensor in Attitude**: Application of Real-time Kalman Filter with
+49. **MEMS IMU Error Mitigation Using Rotation**: Sensors
+50. **Reliability Testing Procedure for MEMS IMUs Applied to**: Sensors 2010, 10, 456-474; doi:10.3390/s100100456
+51. **Research on Initial Alignment and Self-Calibration of Rotary**: Sensors 2015, 15, 3154-3171; doi:10.3390/s150203154
+52. **Standing Calibration Method of MEMS Gyro Bias for Autonomous Pedestrian Navigation System**: The Standing Calibration Method of
+53. **Stochastic Error Modeling of Smartphone Inertial Sensors**: 76
+54. **Systematic Calibration for Ultra-High Accuracy**: Sensors
+55. **Three-Axial Accelerometer Calibration Using Kalman Filter Covariance Matrix**: [ResearchGate](https://www.researchgate.net/publication/234504747)
+56. **Triaxial Accelerometer Error Coefficients Identification with**: Research Article
+57. **3D-Calibration for IMU of the Strapdown Inertial Navigation**
+58. **3D-Calibration of the IMU**: 2017 IEEE 37th International Conference on Electronics and Nanotechnology (ELNANO)
+59. **A Practical and Lowcost Calibration Method for MIMU**
+60. **Calibration and Stochastic Modelling of Inertial Navigation Sensor**: Journal of Global Positioning Systems (2008)
+61. **Calibration Through Multi-Position**: Method for MIMU In-Field Systematic
+62. **Comparative Study of Several**: Comparative Study of Several
+63. **Performance Enhancement of Low-Cost MEMS Inertial Sensors**: 11/4/2018
