@@ -40,3 +40,39 @@
 4. **Research on Weighted Least Square Optimization**: Research on Weighted Least Square Optimization
 5. **Study of State Estimation Using Weighted Least Squares Method**: See discussions, stats, and author profiles for this publication at: [ResearchGate](https://www.researchgate.net/publication/322857549)
 
+# IEEE International Conference Paper
+
+1. **$ 1HZ &DOLEUDWLRQ 0HWKRG IRU 0(06**: $ 1HZ &DOLEUDWLRQ 0HWKRG IRU 0(06
+2. **3D-Calibration of the IMU**: 2017 IEEE 37th International Conference on Electronics and Nanotechnology (ELNANO)
+3. **A Hybrid Grading Calibration Method of FOG-IMU and its**: Inertial Sensors and Systems 2017
+4. **A Localization Algorithm for Railway Vehicles**: A Localization Algorithm for Railway Vehicles
+5. **A Practical and Lowcost Calibration Method for MIMU**: A Practical and Lowcost Calibration Method for MIMU
+6. **A Robust and Easy to Implement Method for IMU Calibration without**: A Robust and Easy to Implement Method for IMU Calibration without
+7. **A Robust Quaternion based Kalman Filter Using a**: A Robust Quaternion based Kalman Filter Using a
+8. **A Separated Calibration Method for Inertial**: Sensors
+9. **Accelerometer Based on Recursive Least Squares**: Research on the Calibration Method of MEMS
+10. **An Algorithm for the In-Field Calibration**: IEEE Sensors Journal, Vol. 17, No. 22, November 15, 2017
+11. **An in situ hand calibration method using**: See discussions, stats, and author profiles for this publication at: [ResearchGate](https://www.researchgate.net/publication/241780103)
+12. **An Online Virtual Gyroscope Technique Using**: An Online Virtual Gyroscope Technique Using
+13. **Application of Real-time Kalman Filter with**: Application of Real-time Kalman Filter with
+14. **Automatic Calibration for Inertial Measurement Unit**: Automatic Calibration for Inertial Measurement Unit
+15. **A Three-Stage Accelerometer Self-Calibration Techn**: Sensors 2018, 18, 2888; doi:10.3390/s18092888
+16. **CALIBRATION THROUGH MULTI-POSITION**: METHOD FOR MIMU IN-FIELD SYSTEMATIC
+17. **Derevyankin-Matasov2018_Article_FormalizingASequentialCalibrat**: ISSN 0005-1179, Automation and Remote Control, 2018, Vol. 79, No. 1, pp. 51–65. c
+18. **DESIGN AND IMPLEMENTATION OF SENSOR DATA FUSION FOR AN AUTONOMOUS QUADROTOR**: DESIGN AND IMPLEMENTATION OF SENSOR DATA
+19. **Development of an Analytical Method for IMU**: Development of an Analytical Method for IMU
+20. **Expanded Calibration of the MEMS Inertial Sensors**: 2017 IEEE First Ukraine Conference on Electrical and Computer Engineering (UKRCON)
+21. **for IMU Classification and Calibration**: A Two-Step Computationally Efficient Procedure
+22. **Gyroscope calibration with the method of simulated**: See discussions, stats, and author profiles for this publication at: [ResearchGate](https://www.researchgate.net/publication/277931949)
+23. **Identification of Noise Covariance Matrices to Imp**: Sensors 2018, 18, 3490; doi:10.3390/s18103490
+24. **Improved Strapdown Inertial Measurement Unit**: Improved Strapdown Inertial Measurement Unit
+25. **New Algorithm to Calculate the Strapdown Inertial Measurement Unit**: Abstract—A new calibration procedure was proposed for
+26. **On-Line Initialization and Extrinsic Calibration of**: 1272
+27. **Performance Enhancement of Low-Cost MEMS Inertial Sensors Using Extensive**: 2017, 34th NATIONAL RADIO SCIENCE CONFERENCE
+28. **Research on in-Situ Calibration Technology of Sixdimension**: Research on in-Situ Calibration Technology of Six-
+29. **Research on Initial Alignment and Self-Calibration of Rotary**: Sensors 2015, 15, 3154-3171; doi:10.3390/s150203154
+30. **STATIC CALIBRATION OF TRIAXIAL ACCELEROMETER USING NONLINEAR (2)**: See discussions, stats, and author profiles for this publication at: [ResearchGate](https://www.researchgate.net/publication/281177736)
+31. **STATIC CALIBRATION OF TRIAXIAL ACCELEROMETER USING NONLINEAR**: See discussions, stats, and author profiles for this publication at: [ResearchGate](https://www.researchgate.net/publication/281177736)
+32. **Tightly-Coupled Joint User Self-Calibration of**: See discussions, stats, and author profiles for this publication at: [ResearchGate](https://www.researchgate.net/publication/323072068)
+33. **Two-point Calibration Accuracy Analysis Model of**: Two-point Calibration Accuracy Analysis Model of
+
