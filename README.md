@@ -38,8 +38,61 @@
 
 
 ## Category: Stationary Alignment
+### Subcategory: Stationary Alignment
+- **Fast Fine Initial Self-Alignment of INS in Erecting Process on Stationary Base**
+- **A Kalman Filter for SINS Self-Alignment Based on**
+- **A Method for SINS Alignment with Large Initial Misalignment**
+- **A New Initial Alignment Algorithm**
+- **A Novel Self-Alignment Method for SINS Based on Three Vectors**
+- **A Polar Initial Alignment Algorithm for Unmanned**
+- **A Robust Self-Alignment Method for Ship's Strapdown INS Under Mooring**
+- **A Robust Self-Alignment Method for Ship’s Strapdown INS**
+- **A Self-Alignment Algorithm for SINS Based on Gravitational**
+- **A Two-Position SINS Initial Alignment Method Based**
+- **A New Mathematical Formulation for Strapdown Inertial Navigation**
+- **An Improved Alignment Method for the Strapdown**
+- **An Improved Inertial Frame Alignment Algorithm Based on Horizontal Alignment Information for Marine SINS**
+- **An Improved Inertial Frame Alignment Algorithm Based on**
+- **An Improved Stationary Fine Self-Alignment Approach for SINS**
+- **An Improved Strapdown Inertial Navigation System Initial Alignment**
+- **An Improvement Strategy on Direction Cosine Matrix Based**
+- **An Improved Optimal Method for Initial Alignment**
+- **A Coarse-Alignment Method Based on the Optimal-REQ**
+- **Computational Elements for Strapdown Systems**
+- **Computational Elements For Strapdown Systems**
+- **Fast Alignment Using Rotation Vector and**
+- **Genetic Algorithm Based Fast Alignment Method for Strap-Down Inertial**
+- **Ground Fine Alignment of Strapdown INS Under a Vibrating Base**
+- **Improving Self-Alignment of Strapdown INS Using**
+- **Initial Alignment for SINS Based on Low-Cost**
+- **Initial Alignment for SINS Based on Pseudo-Earth**
+- **Initial Calibration and Alignment of Low-Cost Inertial Navigation Units**
+- **Initial Self-Alignment for Marine Rotary SINS Using Novel Adaptive Kalman Filter**
+- **Kalman Filter Design for Initial**
+- **Mathematical Model and Matlab Simulation of Strapdown**
+- **Mems-IMU-Gyroscope-Alignment**
+- **Novel SINS Initial Alignment Method Under Large**
+- **On IMU Self-Alignment Algorithms**
+- **Optimization-Based Transfer Alignment and Calibration Method for Inertial Measurement Vector Integration Matching**
+- **Optimization-Based Alignment for Inertial Navigation Systems**
+- **Optimization-Based Alignment for Strapdown**
+- **Overview of Initial Alignment Method for Strap Down Inertial Navigation**
+- **Parameter Identification Method for SINS Initial**
+- **Part1 On the Error State Selection for Stationary SINS Alignment and**
+- **Part2 Alignment and Calibration Kalman Filters Part II**
+- **Research on Initial Alignment and Self-Calibration of Rotary**
+- **Sculling Compensation Algorithm for SINS Based on**
+- **Self-Alignment Algorithm for Strapdown Inertial Navigation System Under Strong**
+- **Static Alignment of Inertial Navigation Systems Using an Adaptive Multiple Fading Factors Kalman Filter**
+- **Study on Attitude Algorithm for Initial Alignment of SINS on Dynamic Base**
+- **Study on the Low Accuracy IMU’s Initial Alignment**
+- **The Seven Ways to Find Heading**
+- **TN-I0019_3DM-GX3-25__Coning_And_Sculling**
+- **Using a MEMS Gyroscope to Measure the Earth’s Rotation for Gyrocompassing**
+- **VelocityPosition_Integration_Formula_Part_II_Application to Strapdown Inertial Navigation**
+- **Wu-Wang2012_Article_StrapdownInertialNavigationSys**
 
-### Subcategory: Coarse Alignment
+### Subcategory: Coarse Stationary Alignment
 - **A Coarse Alignment Method Based on Digital Filters**
 - **A Coarse-Alignment Method Based on the Inertial Frame**
 - **A Fast In-Field Coarse Alignment and Bias Estimation Method**
